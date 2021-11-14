@@ -4,8 +4,10 @@ Tableau Module
 ## Overview
 This analysis utilized Pandas and Tableau to analyze a Citibike dataset. The goal of the analysis is to provide visual insights to bikesharing trends. 
 
-The link below gives the Tableau story that was required as a deliverable for this challenge:
-<a href="https://public.tableau.com/app/profile/jason.chalmers/viz/Module14-CitibikeOverview/Challenge14-CitibikeOverview?publish=yes">Module 14 - Tableau Story</a>
+* The link below gives the Tableau story that was required as a deliverable for this challenge:
+  * <a href="https://public.tableau.com/app/profile/jason.chalmers/viz/Module14-CitibikeOverview/Challenge14-CitibikeOverview?publish=yes">Module 14 - Tableau Story</a>
+
+* See the python file attached for Deliverable 1
 
 
 ## Results: 
